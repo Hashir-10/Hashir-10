@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Brook-dark
+- 👋 Hi, I’m hashir
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on anything
