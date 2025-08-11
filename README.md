@@ -1,4 +1,4 @@
-- 👋 Hi, I’m hashir
+- 👋 Hi, I’m Muhammad hashir
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on anything
